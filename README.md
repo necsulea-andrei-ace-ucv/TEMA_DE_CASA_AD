@@ -8,22 +8,24 @@ In order to run the main application you have to accomplish some basic things be
 
 
 
+
 Installing Part :
 
 -	Install Python/Check if Python is installed on your machine(preferably, 64bit version, and Python 3.10.4 or above, otherwise it will probably not work),
 
-The link for Python 3.10.4 is : 
-    https://www.python.org/downloads/release/python-3104/
+      The link for Python 3.10.4 is : 
+        https://www.python.org/downloads/release/python-3104/
     
-The tutorial for installing it is : https://phoenixnap.com/kb/how-to-install-python-3-windows
+      The tutorial for installing it is :
+ 	    https://phoenixnap.com/kb/how-to-install-python-3-windows
 
 -	Install C on your computer:
-
-Tutorial : https://code.visualstudio.com/docs/cpp/config-mingw
+      Tutorial : https://code.visualstudio.com/docs/cpp/config-mingw
 
 
 -	Install Visual Studio Code as code editor for this application, setup C compiler and Python Interpreter(Make sure both of the languages are declared globally into “Edit System Environment Variables”, otherwise the compilation and debugging process will not work). Of course, you can run the project in other code editors, environments, IDEs and other applications, but be sure that the files are linked between them. 
-Link for Visual Studio Code( be sure that you choose Windows and 64bit) : 
+
+    Link for Visual Studio Code( be sure that you choose Windows and 64bit) : 
         https://code.visualstudio.com/download
 
 -	Install Latex on your computer, using this tutorial(it is another form of latex, good for windows) : https://miktex.org/howto/install-miktex
@@ -44,6 +46,10 @@ You will use the commands below, and you will run them one by one into the Comma
     pip install pylatex
 
 NOTE : You will see that in my project I have more modules than these. However, they are coming preinstalled on your machine, when you install python.
+
+
+
+
 
 Running Part : 
 
@@ -99,7 +105,7 @@ After this you just use the application, assuming that you understood all instru
 (only if you want to recompile the technical report, but it is not mandatory, use it only if you accidentally deleted “technical_report.pdf”)
 
 
-=====================================================================================
+=
   For other problems, please send me an e-mail : necsulea.andrei.h7u@student.ucv.ro
-=====================================================================================
+=
 
