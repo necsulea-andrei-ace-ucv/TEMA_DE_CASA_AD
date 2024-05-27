@@ -1,0 +1,104 @@
+Test 1:
+Max Value: 20
+Selected Sizes: 8 7 1 2 
+Selected Values: 3 2 6 9 
+Time Elapsed: 7.298000 seconds
+
+Test 2:
+Max Value: 231
+Selected Sizes: 41 86 35 36 48 
+Selected Values: 69 45 85 3 29 
+Time Elapsed: 1.848000 seconds
+
+Test 3:
+Max Value: 2462
+Selected Sizes: 406 603 594 390 505 
+Selected Values: 957 178 338 889 100 
+Time Elapsed: 178.764000 seconds
+
+Test 4:
+Max Value: 37411
+Selected Sizes: 8549 3656 2008 9642 1294 
+Selected Values: 6050 7972 9424 4015 9950 
+Time Elapsed: 260.189000 seconds
+
+Test 5:
+Max Value: 267015
+Selected Sizes: 19402 5095 55362 22895 89010 
+Selected Values: 57042 42824 65938 18571 82640 
+Time Elapsed: 95.511000 seconds
+
+Test 6:
+Max Value: 3658526
+Selected Sizes: 867711 980461 929169 559535 540254 
+Selected Values: 882122 271492 927331 604134 973447 
+Time Elapsed: 27.528000 seconds
+
+Test 7:
+Max Value: 32427822
+Selected Sizes: 6751549 6116514 9756838 2220561 4155287 
+Selected Values: 9435450 6511279 6183077 4712594 5585422 
+Time Elapsed: 22.862000 seconds
+
+Test 8:
+Max Value: 78534293
+Selected Sizes: 2956034 
+Selected Values: 78534293 
+Time Elapsed: 0.428000 seconds
+
+____________________________________________________________________
+
+
+Test 1:
+Max Value: 18
+Selected Sizes: 8 1 2 
+Selected Values: 3 6 9 
+Time Elapsed: 0.000000 seconds
+
+Test 2:
+Max Value: 202
+Selected Sizes: 41 86 35 36 
+Selected Values: 69 45 85 3 
+Time Elapsed: 0.000000 seconds
+
+Test 3:
+Max Value: 1846
+Selected Sizes: 406 390 
+Selected Values: 957 889 
+Time Elapsed: 0.000000 seconds
+
+Test 4:
+Max Value: 27346
+Selected Sizes: 3656 2008 1294 
+Selected Values: 7972 9424 9950 
+Time Elapsed: 0.015000 seconds
+
+Test 5:
+Max Value: 267015
+Selected Sizes: 19402 5095 55362 22895 89010 
+Selected Values: 57042 42824 65938 18571 82640 
+Time Elapsed: 0.012000 seconds
+
+Test 6:
+Max Value: 2459703
+Selected Sizes: 867711 559535 540254 
+Selected Values: 882122 604134 973447 
+Time Elapsed: 0.078000 seconds
+
+Test 7:
+Max Value: 14148044
+Selected Sizes: 6751549 2220561 
+Selected Values: 9435450 4712594 
+Time Elapsed: 0.399000 seconds
+
+Test 8:
+Max Value: 139189354
+Selected Sizes: 17034213 2956034 35495527 
+Selected Values: 53816377 78534293 6838684 
+Time Elapsed: 4.167000 seconds
+
+Test 9:
+Max Value: 102015200
+Selected Sizes: 10000000 200000 900 14 
+Selected Values: 100000000 2000000 15000 200 
+Time Elapsed: 1.696000 seconds

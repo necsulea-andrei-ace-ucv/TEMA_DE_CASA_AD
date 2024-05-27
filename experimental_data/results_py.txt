@@ -1,0 +1,47 @@
+Test 1:
+Max Value: 18
+Selected Sizes: [8, 2, 1]
+Selected Values: [9, 6, 3]
+Time Elapsed: 0.0 seconds
+
+Test 2:
+Max Value: 202
+Selected Sizes: [86, 41, 36, 35]
+Selected Values: [85, 69, 45, 3]
+Time Elapsed: 0.0 seconds
+
+Test 3:
+Max Value: 1846
+Selected Sizes: [406, 390]
+Selected Values: [957, 889]
+Time Elapsed: 0.0 seconds
+
+Test 4:
+Max Value: 27346
+Selected Sizes: [3656, 2008, 1294]
+Selected Values: [9950, 9424, 7972]
+Time Elapsed: 0.09375 seconds
+
+Test 5:
+Max Value: 267015
+Selected Sizes: [89010, 55362, 22895, 19402, 5095]
+Selected Values: [82640, 65938, 57042, 42824, 18571]
+Time Elapsed: 1.21875 seconds
+
+Test 6:
+Max Value: 2459703
+Selected Sizes: [867711, 559535, 540254]
+Selected Values: [973447, 882122, 604134]
+Time Elapsed: 8.96875 seconds
+
+Test 7:
+Max Value: 14148044
+Selected Sizes: [6751549, 2220561]
+Selected Values: [9435450, 4712594]
+Time Elapsed: 38.984375 seconds
+
+Test 8:
+Max Value: 139189354
+Selected Sizes: [35495527, 17034213, 2956034]
+Selected Values: [78534293, 53816377, 6838684]
+Time Elapsed: 539.203125 seconds
