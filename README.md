@@ -13,6 +13,7 @@ Installing Part :
 
 -	Install Python/Check if Python is installed on your machine(preferably, 64bit version, and Python 3.10.4 or above, otherwise it will probably not work),
 
+
       The link for Python 3.10.4 is : 
         https://www.python.org/downloads/release/python-3104/
     
@@ -20,6 +21,7 @@ Installing Part :
  	    https://phoenixnap.com/kb/how-to-install-python-3-windows
 
 -	Install C on your computer:
+  
       Tutorial : https://code.visualstudio.com/docs/cpp/config-mingw
 
 
