@@ -105,7 +105,7 @@ After this you just use the application, assuming that you understood all instru
 (only if you want to recompile the technical report, but it is not mandatory, use it only if you accidentally deleted “technical_report.pdf”)
 
 
-=
+
   For other problems, please send me an e-mail : necsulea.andrei.h7u@student.ucv.ro
 =
 
