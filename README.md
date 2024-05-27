@@ -91,8 +91,7 @@ After this you just use the application, assuming that you understood all instru
 
      cd experimental_data
 
-
-     python  results.py 
+     python results.py 
 (we compute data through python and output it into the the “results_py.txt”)
 
 
