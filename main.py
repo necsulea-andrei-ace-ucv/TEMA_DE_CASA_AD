@@ -17,7 +17,7 @@ def delete_csv_contents(filename):
 #this will deletes all unnecesarry files with os modules when we close the app, we call the function into on_closing() function
 #This function will raise an error, because the os file is not building correctly the path, however in the end is cleaning everything
 #If you encounter any errors, it is because some cases for error handling are not taken into consideration by me, but the application is working 
-#I mean if you input data corectly and used the app as it says in the READ.me file from github or from HELP section(READ.me file), then everything will be ok.
+#I mean if you input data corectly and used the app as it says in the README.md file from github or from HELP section(README.md file), then everything will be ok.
 
 def delete_csv_files():
     script_dir = os.path.dirname(os.path.abspath(__file__))
